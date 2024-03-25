@@ -5,6 +5,6 @@
     </x-shortbanner>
     <div>
         <div>
-        Not found Page (Error 404)
+        Unauthorised Page (Error 403) 
     </div>
 </x-landing-layout>
